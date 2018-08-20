@@ -1,9 +1,12 @@
 package com.fbmanager.fbwriter.model;
 
+import lombok.Data;
+
 import javax.persistence.*;
 import java.sql.Timestamp;
 import java.time.LocalDateTime;
 
+@Data
 @Entity
 @Table(name = "post")
 public class Post {

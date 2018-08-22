@@ -12,7 +12,7 @@ The purpose of the project is to go trough all the stages of a project by myself
 ####Second Stage
 * OAuth2 with Spring boot security via FaceBook
 * FB api integration
-* JUnit tests
+* Unit tests
 
 ####Third Stage
 * Setting up DevOps with Jenkins
@@ -25,3 +25,4 @@ The purpose of the project is to go trough all the stages of a project by myself
 ## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
+

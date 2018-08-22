@@ -1,5 +1,6 @@
 # fb-writer
-FB group manager is a training project. It`s main purpose will be saving a posting posts on a FB group at a scheduled time so that
+FB group manager is a training project. It`s main purpose will be saving a posting posts on a FB group at a scheduled time so that the group owner could queuq post and just relax.
+
 The purpose of the project is to go trough all the stages of a project by myself so that I wrap up and practice my knowledge.  
 ### Technologies to be used by stages
 
